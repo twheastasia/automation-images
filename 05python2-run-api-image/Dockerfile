@@ -1,4 +1,4 @@
-FROM python2-7-base-image
+FROM python2-7-base-image:latest
 
 WORKDIR /root
 
