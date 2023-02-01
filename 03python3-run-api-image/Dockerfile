@@ -1,4 +1,4 @@
-FROM python3-10-6-base-image
+FROM twheastasia/python3-10-6-base-image
 
 WORKDIR /root
 
