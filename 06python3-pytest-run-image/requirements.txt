@@ -1,0 +1,16 @@
+jsonpath-rw
+ddt
+PyYAML
+requests
+pymysql
+html5lib
+bs4
+simplejson
+cassandra-driver
+pytz
+pytest
+pytest-html
+pytest-xdist
+pytest-rerunfailures
+pytest-ordering
+allure-pytest
